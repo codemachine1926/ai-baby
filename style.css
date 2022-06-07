@@ -1,0 +1,15 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+#heading{
+    color: aqua;
+    background-color:darkblue ;
+    margin-top: 0px;
+}
+.note{
+    background-color: white;
+    width:fit-content;
+    color: red;
+    border: solid 2px black;
+}
